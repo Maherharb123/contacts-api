@@ -1,0 +1,19 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "My lab 1 in web App_Apl",
+  "main": "app.js",
+  "type": "module",
+  
+  "scripts": { 
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "Maher Harb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+    
+  }
+}
